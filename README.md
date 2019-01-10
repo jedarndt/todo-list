@@ -1,1 +1,3 @@
-# todo-list
+# Todo list
+
+Simple todo list built using React. No back-end .. yet...
